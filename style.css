@@ -347,3 +347,11 @@ template {
 [hidden] {
   display: none;
 }
+
+/** END OF NORMALIZING BLOCK**/
+
+/** Basic structure**/
+
+body {
+    display: flex;
+}
