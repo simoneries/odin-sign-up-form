@@ -371,7 +371,7 @@ template {
 /** Basic structure**/
 
 body {
-    display: flex;
+  display: flex;
 }
 
 #left_container{
@@ -384,8 +384,11 @@ body {
   background-color: beige;
   width:65vw;
   height: 100vh;
-  font-family: 'Gowa',sans-serif;
+  padding: 2vw;
 }
+
+
+
 
 
 
