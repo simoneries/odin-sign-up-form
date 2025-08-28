@@ -375,12 +375,16 @@ body {
 }
 
 #left_container{
-    width: 35vw;
+  background-color: grey;
+  width: 35vw;
+  height: 100vh;
 }
 
 #right_container{
-    width:65vw;
-    font-family: 'Gowa',sans-serif;
+  background-color: beige;
+  width:65vw;
+  height: 100vh;
+  font-family: 'Gowa',sans-serif;
 }
 
 
