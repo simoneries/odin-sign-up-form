@@ -1,3 +1,21 @@
+@font-face {
+    font-family: 'Anarchist Mustache';
+    src: url('fonts/AnarchistMustache.woff2') format('woff2'),
+        url('fonts/AnarchistMustache.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gowa';
+    src: url('fonts/Gowa-Regular.woff2') format('woff2'),
+        url('fonts/Gowa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -362,6 +380,7 @@ body {
 
 #right_container{
     width:65vw;
+    font-family: 'Gowa',sans-serif;
 }
 
 
