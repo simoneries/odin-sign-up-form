@@ -381,13 +381,22 @@ body {
 }
 
 #right_container{
+  display: flex;
+  flex-direction: column;
   background-color: beige;
   width:65vw;
   height: 100vh;
   padding: 2vw;
 }
 
+#header{
+  height:35vh;
+}
 
+#form_container{
+  background-color: burlywood;
+  height: 35vh;
+}
 
 
 
