@@ -395,7 +395,7 @@ body {
 
 #form_container{
   background-color: burlywood;
-  height: 35vh;
+  flex: 0 35vh;
 }
 
 
