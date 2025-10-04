@@ -376,14 +376,15 @@ body {
 
 #left_container{
   background-color: grey;
-  width: 35vw;
+  width: 25vw;
+  background-color: rgb(156, 29, 29);
 }
 
 #right_container{
   display: flex;
   flex-direction: column;
   background-color: beige;
-  width:65vw;
+  width:75vw;
   height: 100vh;
 }
 
