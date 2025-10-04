@@ -375,7 +375,6 @@ body {
 }
 
 #left_container{
-  background-color: grey;
   width: 25vw;
   background-color: rgb(156, 29, 29);
 }
@@ -418,4 +417,14 @@ form{
   padding: 10px;
   width: 40%;
   height: 20%;
+}
+
+#logo{
+  padding: 10%;
+  width: 90%;
+  font-family:'Anarchist Mustache';
+  font-size: 3rem;
+  color: white;
+  
+
 }
