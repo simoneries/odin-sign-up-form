@@ -389,7 +389,10 @@ body {
 }
 
 #header{
-  height:35vh;
+  height:20vh;
+  font-family: 'Gowa', sans-serif ;
+  padding: 5%;
+  padding-top: 10%;
 }
 
 #form_container{
@@ -421,11 +424,14 @@ form{
 }
 
 #logo{
-  padding: 10%;
-  width: 90%;
-  font-family:'Anarchist Mustache';
+  padding: 5%;
+  font-family:'Anarchist Mustache', sans-serif;
   font-size: 3rem;
   color: white;
-  background-color: rgba(13, 3, 3, 0.6);
-
+  background-color: rgba(13, 3, 3, 0.4);
+  text-align: center;
 }
+
+
+
+
