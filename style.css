@@ -383,7 +383,7 @@ body {
 #right_container{
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: rgb(243, 243, 243);
   width:75vw;
   height: 100vh;
 }
@@ -400,7 +400,7 @@ body {
 #form_container{
   display: flex;
   flex-direction: column;
-  background-color: burlywood;
+  background-color: white;
   flex: 0 35vh;
   font-family: 'Gowa', sans-serif;
   font-size: 20px;
