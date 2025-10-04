@@ -383,7 +383,7 @@ body {
 #right_container{
   display: flex;
   flex-direction: column;
-  background-color: beige;
+  background-color: white;
   width:75vw;
   height: 100vh;
 }
@@ -391,8 +391,10 @@ body {
 #header{
   height:20vh;
   font-family: 'Gowa', sans-serif ;
-  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
   padding-top: 10%;
+  font-size: 23px;
 }
 
 #form_container{
