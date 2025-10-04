@@ -377,6 +377,7 @@ body {
 #left_container{
   width: 25vw;
   background-color: rgb(156, 29, 29);
+  padding-top: 15%;
 }
 
 #right_container{
@@ -425,6 +426,6 @@ form{
   font-family:'Anarchist Mustache';
   font-size: 3rem;
   color: white;
-  
+  background-color: rgba(13, 3, 3, 0.6);
 
 }
