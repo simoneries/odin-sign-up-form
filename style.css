@@ -432,6 +432,7 @@ body {
 
 #title{
   padding: 10px;
+  background-color: white;
 }
 
 #question_block{
@@ -439,7 +440,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: white;
-  box-shadow: 3px 3px 10px 1px grey;
+  box-shadow: 0 5px 4px 1px gray;
 }
 
 #button_block{
