@@ -400,7 +400,6 @@ body {
 #form_container{
   display: flex;
   flex-direction: column;
-  background-color: white;
   font-family: 'Gowa', sans-serif;
   font-size: 20px;
   flex: 0 35vh;
@@ -439,6 +438,25 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  background-color: white;
+  box-shadow: 3px 3px 10px 1px grey;
+}
+
+#button_block{
+  display: flex;
+  justify-content: left;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+button{
+  background-color: rgb(156, 29, 29);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  box-shadow: 3px 3px 10px 1px grey;
+  text-align: center;
+  width: 20%;
+  height: 40px;
 }
 
 
