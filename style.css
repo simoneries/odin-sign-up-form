@@ -440,7 +440,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: white;
-  box-shadow: 0 5px 4px 1px gray;
+  box-shadow: 0 5px 5px -5px gray;
 }
 
 #button_block{
