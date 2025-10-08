@@ -411,6 +411,7 @@ body {
   padding: 5px;
   border: 2px solid;
   border-radius: 10px;
+  border-color: #E5E7EB;
 }
 
 #question{
@@ -449,6 +450,7 @@ body {
   padding-top: 20px;
   padding-left: 30px;
 }
+
 button{
   background-color: rgb(156, 29, 29);
   border-radius: 10px;
