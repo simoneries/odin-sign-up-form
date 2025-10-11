@@ -414,6 +414,11 @@ body {
   border-color: #E5E7EB;
 }
 
+input:active, input:focus{
+  outline: none;
+  box-shadow: 1px 1px 15px 1px;
+}
+
 #question{
   display: flex;
   flex-direction: column;
@@ -461,6 +466,15 @@ button{
   width: 20%;
   height: 40px;
 }
+
+button:hover {
+  background-color: rgb(241, 126, 126);
+}
+
+#question input[type="password"]:invalid{
+  border : 1px solid red;
+}
+
 
 
 
