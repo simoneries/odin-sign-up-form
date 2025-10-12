@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Anarchist Mustache';
+    src: url('AnarchistMustache.woff2') format('woff2'),
+        url('AnarchistMustache.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gowa';
+    src: url('Gowa-Regular.woff2') format('woff2'),
+        url('Gowa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
