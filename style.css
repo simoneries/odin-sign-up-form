@@ -414,9 +414,10 @@ body {
   border-color: #E5E7EB;
 }
 
-input:active, input:focus{
+#question input:active, #question input:focus{
   outline: none;
-  box-shadow: 1px 1px 15px 1px;
+  border: 2px solid rgb(143, 215, 246);
+  box-shadow: 0px 0px 45px -10px rgb(156, 29, 29);
 }
 
 #question{
